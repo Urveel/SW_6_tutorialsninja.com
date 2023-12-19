@@ -1,0 +1,106 @@
+2023-12-19 20:12:820 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (0ac2482a2aad2e34c00bc7680cec5b57)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:840 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (0ac2482a2aad2e34c00bc7680cec5b57)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:116 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (0ac2482a2aad2e34c00bc7680cec5b57)] -> link text: Desktops]
+2023-12-19 20:12:945 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:514 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (29844cafe7346e003d22c183a483a6e3)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:30 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (29844cafe7346e003d22c183a483a6e3)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:260 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (29844cafe7346e003d22c183a483a6e3)] -> link text: Desktops]
+2023-12-19 20:12:78 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:280 INFO  DesktopPage :86 - Select Products option : HTC Touch HD
+2023-12-19 20:12:668 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (35b34da1ea1f9b956e7c5c50057c14c4)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:316 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (35b34da1ea1f9b956e7c5c50057c14c4)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:579 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (35b34da1ea1f9b956e7c5c50057c14c4)] -> link text: Desktops]
+2023-12-19 20:12:910 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:487 INFO  DesktopPage :86 - Select Products option : iPhone
+2023-12-19 20:12:384 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (211d4d6e106c0d5d1082b517148043e2)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:409 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (211d4d6e106c0d5d1082b517148043e2)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:643 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (211d4d6e106c0d5d1082b517148043e2)] -> link text: Desktops]
+2023-12-19 20:12:386 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:967 INFO  DesktopPage :86 - Select Products option : iPod Classic
+2023-12-19 20:12:514 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (9cd284f78e48bd0edd12ae557eaebd04)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:557 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (9cd284f78e48bd0edd12ae557eaebd04)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:752 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (9cd284f78e48bd0edd12ae557eaebd04)] -> link text: Desktops]
+2023-12-19 20:12:02 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:687 INFO  DesktopPage :86 - Select Products option : MacBook
+2023-12-19 20:12:763 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (25b9f3348dc77e4d28779b46a313d420)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:790 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (25b9f3348dc77e4d28779b46a313d420)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:26 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (25b9f3348dc77e4d28779b46a313d420)] -> link text: Desktops]
+2023-12-19 20:12:577 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:672 INFO  DesktopPage :86 - Select Products option : MacBook Air
+2023-12-19 20:12:992 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (dfae525e9b6c71cad04b9940f36565d2)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:819 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (dfae525e9b6c71cad04b9940f36565d2)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:982 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (dfae525e9b6c71cad04b9940f36565d2)] -> link text: Desktops]
+2023-12-19 20:12:476 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:463 INFO  DesktopPage :86 - Select Products option : Sony VAIO
+2023-12-19 20:12:218 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:110 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:293 INFO  HomePage :62 - mouse Hover And Click On Laptops And Notebooks Tab : [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> link text: Laptops & Notebooks]
+2023-12-19 20:12:308 INFO  HomePage :50 - Select menu option : Show AllLaptops & Notebooks
+2023-12-19 20:12:437 INFO  LaptopsAndNoteBooksPage :69 - Original product list[[[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']]]
+2023-12-19 20:12:451 INFO  LaptopsAndNoteBooksPage :75 - Product Sort by High low price[[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> id: input-sort]
+2023-12-19 20:12:979 INFO  LaptopsAndNoteBooksPage :88 - After sort by price[[[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8150530177ba706dec12d7de5d3c70dd)] -> xpath: //p[@class ='price']]]
+2023-12-19 20:12:721 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:606 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:779 INFO  HomePage :62 - mouse Hover And Click On Laptops And Notebooks Tab : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> link text: Laptops & Notebooks]
+2023-12-19 20:12:795 INFO  HomePage :50 - Select menu option : Show AllLaptops & Notebooks
+2023-12-19 20:12:918 INFO  LaptopsAndNoteBooksPage :69 - Original product list[[[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //p[@class ='price']], [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //p[@class ='price']]]
+2023-12-19 20:12:933 INFO  LaptopsAndNoteBooksPage :75 - Product Sort by High low price[[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> id: input-sort]
+2023-12-19 20:12:821 INFO  LaptopsAndNoteBooksPage :123 - select MacBook Product : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> link text: MacBook]
+2023-12-19 20:12:836 INFO  LaptopsAndNoteBooksPage :129 - verify The Text MacBook : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //h1[normalize-space()='MacBook']]
+2023-12-19 20:12:898 INFO  LaptopsAndNoteBooksPage :136 - click On Add To Cart : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //button[@id='button-cart']]
+2023-12-19 20:12:187 INFO  LaptopsAndNoteBooksPage :141 - verify Success Message For Adding Product To Shopping Cart : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2023-12-19 20:12:726 INFO  LaptopsAndNoteBooksPage :148 - click On Link To Shopping Cart Message : [[ChromeDriver: chrome on windows (8b5def043684f0f9c6aed753c3cf8d89)] -> xpath: //a[normalize-space()='shopping cart']]
+2023-12-19 20:12:790 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (d80541aebc16359ed4611826de752262)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:843 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (d80541aebc16359ed4611826de752262)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:20 INFO  HomePage :87 - mouse Hover And Click On account Link : [[ChromeDriver: chrome on windows (d80541aebc16359ed4611826de752262)] -> xpath: //span[normalize-space()='My Account']]
+2023-12-19 20:12:578 INFO  HomePage :100 - Select Options : Register
+2023-12-19 20:12:609 INFO  AccountRegisterPage :51 - Verify register account link : [[ChromeDriver: chrome on windows (d80541aebc16359ed4611826de752262)] -> xpath: //h1[normalize-space()='Register Account']]
+2023-12-19 20:12:714 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (de17d54298bfc412004c2bac59249e10)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:535 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (de17d54298bfc412004c2bac59249e10)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:711 INFO  HomePage :87 - mouse Hover And Click On account Link : [[ChromeDriver: chrome on windows (de17d54298bfc412004c2bac59249e10)] -> xpath: //span[normalize-space()='My Account']]
+2023-12-19 20:12:221 INFO  HomePage :100 - Select Options : Login
+2023-12-19 20:12:247 INFO  AccountRegisterPage :57 - Verify returning customer login link : [[ChromeDriver: chrome on windows (de17d54298bfc412004c2bac59249e10)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2023-12-19 20:12:794 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:597 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:759 INFO  HomePage :87 - mouse Hover And Click On account Link : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //span[normalize-space()='My Account']]
+2023-12-19 20:12:935 INFO  HomePage :100 - Select Options : Register
+2023-12-19 20:12:35 INFO  AccountRegisterPage :63 - Enter FirstName : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> id: input-firstname]
+2023-12-19 20:12:102 INFO  AccountRegisterPage :68 - Enter lastName : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> id: input-lastname]
+2023-12-19 20:12:253 INFO  AccountRegisterPage :75 - Enter an email : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> id: input-email]
+2023-12-19 20:12:327 INFO  AccountRegisterPage :86 - Enter telephone number : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> id: input-telephone]
+2023-12-19 20:12:393 INFO  AccountRegisterPage :92 - Enter password : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> id: input-password]
+2023-12-19 20:12:466 INFO  AccountRegisterPage :98 - Enter confirm password : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //input[@id='input-confirm']]
+2023-12-19 20:12:528 INFO  AccountRegisterPage :104 - Click on Subscribe radio button : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //label[normalize-space()='Yes']]
+2023-12-19 20:12:577 INFO  AccountRegisterPage :110 - click On Privacy Policy CheckBox : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> css selector: input[value='1'][name='agree']]
+2023-12-19 20:12:766 INFO  AccountRegisterPage :116 - click On Continue Button : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //input[@value='Continue']]
+2023-12-19 20:12:794 INFO  MyAccountPage :37 - Verify The Message Your Account Has Been Created : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //h1[normalize-space()='Your Account Has Been Created!']]
+2023-12-19 20:12:824 INFO  MyAccountPage :49 - Click On Continue Account Button : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //a[contains(text(),'Continue')]]
+2023-12-19 20:12:540 INFO  HomePage :87 - mouse Hover And Click On account Link : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //span[normalize-space()='My Account']]
+2023-12-19 20:12:484 INFO  HomePage :100 - Select Options : Logout
+2023-12-19 20:12:503 INFO  MyAccountPage :55 - Verify Text For Account LogOut : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 20:12:918 INFO  MyAccountPage :62 - Click On Continue LogOut Button : [[ChromeDriver: chrome on windows (848e647d17db5fa5c61493d22130ac0b)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-19 20:12:688 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:473 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:641 INFO  HomePage :87 - mouse Hover And Click On account Link : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //span[normalize-space()='My Account']]
+2023-12-19 20:12:144 INFO  HomePage :100 - Select Options : Login
+2023-12-19 20:12:288 INFO  AccountRegisterPage :75 - Enter an email : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> id: input-email]
+2023-12-19 20:12:377 INFO  AccountRegisterPage :92 - Enter password : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> id: input-password]
+2023-12-19 20:12:317 INFO  MyAccountPage :68 - Click On Login Button : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //input[@value='Login']]
+2023-12-19 20:12:336 INFO  MyAccountPage :73 - Verify The Text MyAccount : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //h2[normalize-space()='My Account']]
+2023-12-19 20:12:69 INFO  HomePage :100 - Select Options : Logout
+2023-12-19 20:12:107 INFO  MyAccountPage :55 - Verify Text For Account LogOut : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 20:12:508 INFO  MyAccountPage :62 - Click On Continue LogOut Button : [[ChromeDriver: chrome on windows (c5405ff9f2b731cfc2610cda5357a15b)] -> xpath: //a[normalize-space()='Continue']]
+2023-12-19 20:12:211 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (1f55feb917b7987eee78ba8b1e583923)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:31 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (1f55feb917b7987eee78ba8b1e583923)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:209 INFO  HomePage :56 - mouse Hover And Click On Desktops Tab : [[ChromeDriver: chrome on windows (1f55feb917b7987eee78ba8b1e583923)] -> link text: Desktops]
+2023-12-19 20:12:495 INFO  HomePage :50 - Select menu option : Show AllDesktops
+2023-12-19 20:12:518 INFO  DesktopPage :41 - Verify The Text Desktops On Page : [[ChromeDriver: chrome on windows (1f55feb917b7987eee78ba8b1e583923)] -> xpath: (//h2[normalize-space()='Desktops'])[1]]
+2023-12-19 20:12:756 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (bb6ff8837bc8b08e649d80297ecd0f77)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:558 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (bb6ff8837bc8b08e649d80297ecd0f77)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:730 INFO  HomePage :62 - mouse Hover And Click On Laptops And Notebooks Tab : [[ChromeDriver: chrome on windows (bb6ff8837bc8b08e649d80297ecd0f77)] -> link text: Laptops & Notebooks]
+2023-12-19 20:12:625 INFO  HomePage :50 - Select menu option : Show AllLaptops & Notebooks
+2023-12-19 20:12:32 INFO  HomePage :74 - mouse Hover And Click On currency DropDown Menu  : [[ChromeDriver: chrome on windows (d5e6ba8d286b1f4c10d5606ecf708af2)] -> xpath: //span[contains(text(),'Currency')]]
+2023-12-19 20:12:937 INFO  HomePage :81 - mouse Hover And Click On sterling Pound Currency : [[ChromeDriver: chrome on windows (d5e6ba8d286b1f4c10d5606ecf708af2)] -> xpath: //button[normalize-space()='£Pound Sterling']]
+2023-12-19 20:12:111 INFO  HomePage :67 - mouse Hover And Click On components Tab  : [[ChromeDriver: chrome on windows (d5e6ba8d286b1f4c10d5606ecf708af2)] -> link text: Components]
+2023-12-19 20:12:875 INFO  HomePage :50 - Select menu option : Show AllComponents
+2023-12-19 20:12:896 INFO  ComponentsPage :18 - Verify The Text Components On Page : [[ChromeDriver: chrome on windows (d5e6ba8d286b1f4c10d5606ecf708af2)] -> xpath: (//h2[normalize-space()='Components'])[1]]
